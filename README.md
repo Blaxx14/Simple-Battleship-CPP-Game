@@ -1,4 +1,4 @@
 # Simple-game-cpp--1---Battleship
-Simpe se simpel simpelnya game pertama
+Game cpp ku yang pertama sekaligus project akhir semester 1
 
 Game model cmd
